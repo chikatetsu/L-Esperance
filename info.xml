@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<info>
+    <index>
+        <jour>
+            <nom>Mardi</nom>
+            <plat>Andouillettes 5A et frites</plat>
+            <image>img/Plat du Jour/andouillettes.jpg</image>
+            <prix>À emporter à partir de 12,00€</prix>
+        </jour>
+        <jour>
+            <nom>Mercredi</nom>
+            <plat>Brochette de volaille et riz aux légumes</plat>
+            <image>img/Plat du Jour/lasagnes.jpg</image>
+            <prix>À emporter à partir de 12,00€</prix>
+        </jour>
+        <jour>
+            <nom>Jeudi</nom>
+            <plat>Lomo au paprika et pommes sautées</plat>
+            <image>img/Plat du Jour/lasagnes.jpg</image>
+            <prix>À emporter à partir de 12,00€</prix>
+        </jour>
+        <jour>
+            <nom>Vendredi</nom>
+            <plat>Dos de merlu et p'tits légumes</plat>
+            <image>img/Plat du Jour/lasagnes.jpg</image>
+            <prix>À emporter à partir de 12,00€</prix>
+        </jour>
+        <jour>
+            <nom>Samedi</nom>
+            <plat>Lasagnes maison</plat>
+            <image>img/Plat du Jour/lasagnes.jpg</image>
+            <prix>À emporter à partir de 12,00€</prix>
+        </jour>
+        <jour>
+            <nom></nom>
+            <plat></plat>
+            <image></image>
+            <prix></prix>
+        </jour>
+        <jour>
+            <nom></nom>
+            <plat></plat>
+            <image></image>
+            <prix></prix>
+        </jour>
+
+
+        <vin>
+            <nom>Beaune Clos Saint-Landry</nom>
+            <image>img/vin du moment.jpg</image>
+            <prix></prix>
+        </vin>
+    </index>
+
+
+
+    <restauration>
+        <partie>
+            <titre>Entrées</titre>
+            <contenu>Anchoix de Collioure - 7,00€
+                Fois gras de canard - 12,00€
+                Assiette de Charcuterie - 9,00€
+                Sardines Millesimées - 9,00€
+                Duo de Saumon bio et oeuf - 12,00€
+                Salade de Hareng - 7,00€
+                Andouille de Guemene - 8,00€
+                Tomates Mozzarella - 9,00€
+                Rillette de la mer - 7,00€
+                Terrine du Moment - 7,00€</contenu>
+        </partie>
+        <partie>
+            <titre>Plats</titre>
+            <contenu>Magret de Canard au piment d'espelette - 21,00€
+                Steack Tartare (charolais) - 16,00€
+                Andouillette 5A - 14,00€
+                Entrecôte (300g) - 21,00€
+                Steak Haché - 12,00€
+                Tartare - 16,00€
+                Vendredi soir : Planches de charcuterie et de fromage</contenu>
+        </partie>
+        <partie>
+            <titre>Desserts</titre>
+            <contenu>Babas de Saint-Malo - 12,00€
+                Babas de Souillac - 12,00€
+                Assortiment de glaces - 3,00€
+                Assortiment de fromage affinés - 8,00€</contenu>
+        </partie>
+    </restauration>
+
+
+
+    <bar>
+        <partie>
+            <titre>Vin Blanc</titre>
+            <contenu>Sauvignon - 3,00€
+                Chardonnais - 4,00€
+                Viré Clessé - 5,00€
+                Petit Chablis - 5,00€
+                Chablis - 6,00€
+                Pouilly Fumé - 5,00€
+                Sancerre - 5,50€
+                Côtes du Rhone - 4,50€
+                Graves Blanc - 4,50€
+                Côtes de Gascogne - 4,00€</contenu>
+        </partie>
+        <partie>
+            <titre>Vin Rouge</titre>
+            <contenu>Merlot - 3,00€
+                Pimot Noir - 4,00€
+                Côtes du Rhone - 4,50€
+                Sancerre - 5,50€
+                Coulange - 5,00€
+                Bouleaux Supérieur - 3,50€
+                Saint-Emilion "ST Georges" - 6,00€
+                Pessac-Leognan - 6,00€
+                Côtes du Roussillon - 5,00€</contenu>
+        </partie>
+        <partie>
+            <titre>Rosé</titre>
+            <contenu>Bordeaux rosé - 3,00€
+                Côtes de Provence - 5,00€
+                "M" de Minuty - 5,00€</contenu>
+        </partie>
+        <partie>
+            <titre>Pétillants</titre>
+            <contenu>Kir Pétillant - 4,00€
+                Prosecco - 5,00€
+                Coupe de Champagne - 7,00€</contenu>
+        </partie>
+        <partie>
+            <titre>Cocktail</titre>
+            <contenu>Gin Tonic - 8,00€
+                Cuba Libre - 6,00€
+                Kir - 3,00€
+                Kir Pétillant - 5,00€
+                Kir Royal - 8,00€
+                Apérol Spritz - 7,00€
+                Campari Pamplemousse - 6,00€
+                Americano - 8,00€
+                Mojitaï - 7,00€</contenu>
+        </partie>
+        <partie>
+            <titre>Apéritif</titre>
+            <contenu>Martini Blanc - 3,50€
+                Martini Rouge - 3,50€
+                Pastis 51 - 3,00€
+                Ricard - 3,00€
+                Porto - 3,00€
+                Suze - 3,00€</contenu>
+        </partie>
+        <partie>
+            <titre>Alcool</titre>
+            <contenu>Baileys - 6,00€
+                Peppermint Get 27 - 6,00€
+                Peppermint Get 31 - 8,00€
+                Armagnac - 6,00€
+                Calvados (4cL) - 6,00€
+                Cognac (4cL) - 6,00€
+                Poire (4cL) - 6,00€
+                Téquila - 5,00€
+                Whisky (4cL) - 5,00€
+                Whisky baby (2cL) - 2,50€</contenu>
+        </partie>
+        <partie>
+            <titre>Bières Pression</titre>
+            <contenu>Moretti - 3,00€
+                Affligem - 4,00€</contenu>
+        </partie>
+        <partie>
+            <titre>Bières Bouteilles</titre>
+            <contenu>Desperados - 4,00€
+                Heineken - 3,00€
+                Punk Ipa - 4,00€
+                Mort Subite - 4,00€
+                Vedett - 4,00€
+                Bière Artisanale - 5,00€</contenu>
+        </partie>
+        <partie>
+            <titre>Café Thé</titre>
+            <contenu>Café Crème - 1,50€
+                Grand Café Crème - 2,50€
+                Café décaféiné - 1,20€
+                Café Express - 1,20€
+                Chocolat - 3,00€
+                Thé - 3,00€</contenu>
+        </partie>
+        <partie>
+            <titre>Les Soft</titre>
+            <contenu>Eau minérale 50cL - 3,50€
+                Eau minérale 100cL - 5,00€
+                Coca Cola - 3,00€
+                Pepsi Cola - 3,00€
+                Perrier - 3,00€
+                Schweppes - 3,00€
+                Jus de fruits (Tomate / Ananas / Orange) - 3,00€</contenu>
+        </partie>
+    </bar>
+
+
+
+    <cave>
+        <region>
+            <nom>Sud Ouest</nom>
+            <couleur>
+                <nom>Rouge</nom>
+                <vin>Le Ptit Bidon Bio - 6,50€
+                    Cuvée Jean Py R Bio - 8,00€
+                    Domaine Py Pinot Noir Bio - 9,00€
+                    Fabien Jouves Haute Cote De Fruit Bio - 9,00€
+                    Domaine Le Novi Landolfi - 10,00€
+                    Laguzelle Minervois Bio - 10,00€
+                    Cochon De Dieu Cahors - 11,00€
+                    Domaine Du Jonc Blanc Fruit Bio - 11,00€
+                    Le Pur Fruit Du Causse Cahors - 11,00€
+                    Les Frontons Flingueurs Bio - 11,00€
+                    Domaine Py Tout Naturellement  Bio - 12,00€
+                    Fabien Jouves Tu Vin Plus Aux Soirees Bio - 12,00€
+                    Fabien Jouves You Fuck My Wine Bio - 12,00€
+                    Pic Saint Loup Domaine Des Trois Chatons 2019 - 12,00€
+                    La Compagnon Corbiere Bio - 13,00€
+                    Mas Lafon Bonjour Ivresse Bio - 17,50€
+                    Mas Lafon Tome Un Bio - 25,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Blanc</nom>
+                <vin>Seigneurie De Peyrat Viognier - 8,00€
+                    Les Autres Terres  - 10,00€
+                    Muscadet Domaine De La Pepiere - 10,00€
+                    Domaine Du Jonc Blanc Fleur Bio - 11,00€
+                    Terre De Safres Luberon Bio - 11,00€
+                    Domaine Py Tout Naturellement Blanc Bio  - 12,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Rosée</nom>
+                <vin></vin>
+            </couleur>
+        </region>
+
+
+        <region>
+            <nom>Ardèche</nom>
+            <couleur>
+                <nom>Rouge</nom>
+                <vin>Murier Ardeche - 9,00€
+                    Chatus Ardeche - 10,00€
+                    Grand Aven - 10,00€
+                    Terra Noe - 11,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Blanc</nom>
+                <vin>Terra Noe - 11,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Rosée</nom>
+                <vin>Terra Noe - 11,00€</vin>
+            </couleur>
+        </region>
+
+
+        <region>
+            <nom>Bourgogne</nom>
+            <couleur>
+                <nom>Rouge</nom>
+                <vin>Clos Du Roi Tradition Rouge - 12,00€
+                    Haute Cote De Beaune 2019 - 14,00€
+                    Epineuil Dampt - 14,00€
+                    Cote De Nuit Village Les Guillandes - 21,00€
+                    Savigny Les Beaunes Les Grands Picotins 2018 - 29,00€
+                    Beaune 1er Cru Les Champs Pimonts - 33,00€
+                    Ladoix 1er Cru La Micaude - 34,00€
+                    Volnay 2019 - 38,00€
+                    Gevrey Chambertin Clos De Meixvelle 2016 - 48,00€
+                    Aloxe Corton 1er Cru Les Moutottes 2013 - 49,00€
+                    Corton Les Marechaudes Grand Cru 2014 - 68,00€
+                    Clos Vougeot 2017 - 129,00€
+                    Echezeaux Grand Cru En Orveaux 2017 - 135,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Blanc</nom>
+                <vin>Chardonnay Château Eon Tonnerre Dampt - 14,00€
+                    Savigny Les Beaunes Blanc 2018 - 24,00€
+                    Saint Aubin 1er Cru - 48,00€
+                    Aloxe Corton 1er Cru La Coutiere 2019 - 58,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Rosée</nom>
+                <vin></vin>
+            </couleur>
+        </region>
+
+
+        <region>
+            <nom>Loire</nom>
+            <couleur>
+                <nom>Rouge</nom>
+                <vin>Petit Bourgeois - 9,50€
+                    Saumur Champigny Château De Targe - 14,00€
+                    Saint Nicolas De Bourgueil Les Roullieres Bio - 17,00€
+                    Sancerre Les Bonnes Bouches - 19,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Blanc</nom>
+                <vin>Petit Bourgeois - 9,50€
+                    Muscadet La Grande Reserve Des Moulins - 10,00€
+                    Sancerre Grande Reserve  - 19,00€
+                    Coteaux Du Layon Saint Aubin Passerille Bio - 21,00€
+                    Sancerre Cote Des Monts Damnes - 26,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Rosée</nom>
+                <vin></vin>
+            </couleur>
+        </region>
+        
+
+        <region>
+            <nom>Bordeaux</nom>
+            <couleur>
+                <nom>Rouge</nom>
+                <vin>Numero 2 De Maucaillou 2018 - 22,00€
+                    Esprit De Pavie 2015 - 24,00€
+                    Saint Estephe Château La Commanderie - 25,00€
+                    Pauillac La Fleur De Pedesclaux 2018 - 27,00€
+                    Saint Emilion Angelique De Monbousquet 2014 - 27,00€
+                    Bargaux Aurore De Dauzac 2016 - 33,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Blanc</nom>
+                <vin></vin>
+            </couleur>
+            <couleur>
+                <nom>Rosée</nom>
+                <vin></vin>
+            </couleur>
+        </region>
+
+
+        <region>
+            <nom>Provence</nom>
+            <couleur>
+                <nom>Rouge</nom>
+                <vin>Les Haiuts De Saint Ser Rouge 2013 - 29,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Blanc</nom>
+                <vin></vin>
+            </couleur>
+            <couleur>
+                <nom>Rosée</nom>
+                <vin>Domaine De Saint Ser Tradition - 13,00€
+                    Domaine De Saint Ser Cuvee Prestige - 18,00€</vin>
+            </couleur>
+        </region>
+
+
+        <region>
+            <nom>Beaujolais</nom>
+            <couleur>
+                <nom>Rouge</nom>
+                <vin></vin>
+            </couleur>
+            <couleur>
+                <nom>Blanc</nom>
+                <vin>Viognier Pied De La Rue - 16,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Rosée</nom>
+                <vin></vin>
+            </couleur>
+        </region>
+
+
+        <region>
+            <nom>Étranger</nom>
+            <couleur>
+                <nom>Rouge</nom>
+                <vin>Gran Malbec Flechas Argentin - 24,00€</vin>
+            </couleur>
+            <couleur>
+                <nom>Blanc</nom>
+                <vin></vin>
+            </couleur>
+            <couleur>
+                <nom>Rosée</nom>
+                <vin></vin>
+            </couleur>
+        </region>
+    </cave>
+
+
+
+    <footer>
+        <contact>81 rue Saint-Martin - 91150 Etampes</contact>
+        <contact>+164940425</contact>
+        <contact>arpino.maillard@gmail.com</contact>
+        <horaire>du Mardi au Jeudi : 10h00 - 19h00
+            le Vendredi : 10h00 - 1h00
+            Le Samedi : 10h00 - 17h00</horaire>
+    </footer>
+</info>
